@@ -1,3 +1,9 @@
+python-xstatic-angular (1.2.16.1-2) unstable; urgency=medium
+
+  * Using the .min.js version of Angular.
+
+ -- Thomas Goirand <zigo@debian.org>  Mon, 11 Aug 2014 18:11:45 +0800
+
 python-xstatic-angular (1.2.16.1-1) unstable; urgency=medium
 
   * Initial release. (Closes: #757778)
