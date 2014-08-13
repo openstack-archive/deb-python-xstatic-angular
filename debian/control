@@ -11,7 +11,7 @@ Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-xstatic-angular.git
 Vcs-Git: git://anonscm.debian.org/openstack/python-xstatic-angular.git
-Homepage: https://bitbucket.org/thesheep/xstatic-angular
+Homepage: https://github.com/stackforge/xstatic-angular
 
 Package: python-xstatic-angular
 Architecture: all
