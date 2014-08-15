@@ -1,17 +1,5 @@
-python-xstatic-angular (1.2.16.1-3) unstable; urgency=medium
-
-  * Updated upstream VCS URLs (now on Stackforge).
-
- -- Thomas Goirand <zigo@debian.org>  Wed, 13 Aug 2014 23:32:07 +0800
-
-python-xstatic-angular (1.2.16.1-2) unstable; urgency=medium
-
-  * Using the .min.js version of Angular.
-
- -- Thomas Goirand <zigo@debian.org>  Mon, 11 Aug 2014 18:11:45 +0800
-
 python-xstatic-angular (1.2.16.1-1) unstable; urgency=medium
 
   * Initial release. (Closes: #757778)
 
- -- Thomas Goirand <zigo@debian.org>  Mon, 11 Aug 2014 17:32:28 +0800
+ -- Thomas Goirand <zigo@debian.org>  Fri, 15 Aug 2014 08:38:26 +0000
