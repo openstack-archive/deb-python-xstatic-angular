@@ -1,3 +1,10 @@
+python-xstatic-angular (1.2.23.1-1) unstable; urgency=medium
+
+  * New version of libjs-angularjs, creating new package for it.
+    (Closes: #761033)
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 10 Sep 2014 19:39:39 +0800
+
 python-xstatic-angular (1.2.16.1-2) unstable; urgency=medium
 
   * Added Google INC as copyright holder.
