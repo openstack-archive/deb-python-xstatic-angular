@@ -1,3 +1,9 @@
+python-xstatic-angular (1.2.23.1-2) unstable; urgency=medium
+
+  * Fixed wrong libjs-angularjs dependency versions.
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 11 Sep 2014 07:27:45 +0000
+
 python-xstatic-angular (1.2.23.1-1) unstable; urgency=medium
 
   * New version of libjs-angularjs, creating new package for it.
