@@ -1,0 +1,20 @@
+Description: Debianize
+ Using the system's version of angular.js
+Author: Thomas Goirand <zigo@debian.org>
+Forwarded: not-needed
+Last-Update: 2015-07-28
+
+--- python-xstatic-angular-1.3.7.0.orig/xstatic/pkg/angular/__init__.py
++++ python-xstatic-angular-1.3.7.0/xstatic/pkg/angular/__init__.py
+@@ -34,9 +34,9 @@ HOMEPAGE = 'http://angularjs.org'
+ LICENSE = '(same as %s)' % DISPLAY_NAME
+ 
+ from os.path import join, dirname
+-BASE_DIR = join(dirname(__file__), 'data')
++#BASE_DIR = join(dirname(__file__), 'data')
+ # linux package maintainers just can point to their file locations like this:
+-#BASE_DIR = '/usr/share/javascript/angular'
++BASE_DIR = '/usr/share/javascript/angular.js'
+ 
+ LOCATIONS = {
+     # CDN locations (if no public CDN exists, use an empty dict)

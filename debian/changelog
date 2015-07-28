@@ -5,6 +5,7 @@ python-xstatic-angular (1.3.7.0-2) unstable; urgency=medium
   * Removed Pre-Depends: on dpkg.
   * Added missing dh-python build-depends.
   * Removed version of python-all build-depends.
+  * Now using the system's version of AngularJS.
 
  -- Thomas Goirand <zigo@debian.org>  Tue, 28 Jul 2015 23:49:23 +0200
 
