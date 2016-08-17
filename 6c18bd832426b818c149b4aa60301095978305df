@@ -1,0 +1,9 @@
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Code-Review+2: Rob Cresswell <robert.cresswell@outlook.com>
+Workflow+1: Rob Cresswell <robert.cresswell@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 01 May 2015 08:43:22 +0000
+Reviewed-on: https://review.openstack.org/169672
+Project: openstack/deb-python-xstatic-angular
+Branch: refs/heads/master

@@ -1,0 +1,8 @@
+Code-Review+2: Rob Cresswell <robert.cresswell@outlook.com>
+Workflow+1: Rob Cresswell <robert.cresswell@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 02 Aug 2016 08:08:29 +0000
+Reviewed-on: https://review.openstack.org/349842
+Project: openstack/deb-python-xstatic-angular
+Branch: refs/heads/master
